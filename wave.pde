@@ -2,7 +2,7 @@
 to change it to contain pictures instead. Thus giving it a bit more of a realistic look. */
 
 
-String word = "Come ride the wild waves bro!";
+String word = "Pictures will go here soon!!!";
 char[] letters;
 float totalOffset = 0;
 PFont font;
