@@ -18,7 +18,7 @@ void draw()
   int y = int(random(img.height));
   color c = img.get(x, y);
   fill(c, 102);
-  int xgrid = int(random(-2, 5)) * 25;
-  int ygrid = int(random(-2, 5)) * 25;
+  int xgrid = int(random(-2, 3) * 35;
+  int ygrid = int(random(-2, 3) * 35;
   rect(xgrid, ygrid, 40, 40);
 }
