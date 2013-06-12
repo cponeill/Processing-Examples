@@ -7,7 +7,7 @@ void setup()
 {
   size(640, 480);
   img = loadImage("XXXXX.jpg");
-  font = loadFont("Bauhaus93-48.vlw");
+  font = loadFont("XXXXX.vlw");
   textFont(font, 50);
 }
 
