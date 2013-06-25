@@ -10,6 +10,5 @@ void setup()
 void draw()
 {
   int imageHeight = 100*img.height/img.width;
-  imageMode(CENTER);
   image(img, mouseX, mouseY, 100, imageHeight);
 }
