@@ -10,5 +10,6 @@ void setup()
 void draw()
 {
   int imageHeight = 100*img.height/img.width;
+  image(CENER);
   image(img, mouseX, mouseY, 100, imageHeight);
 }
